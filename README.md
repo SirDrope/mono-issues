@@ -1,2 +1,4 @@
-# mono-issues
-Repositorio para indicar problemas en la plataforma de Mono
+# Mono Platform
+
+Repositorio para informar de problemas de la web:
+http://sirdrope.xyz/
